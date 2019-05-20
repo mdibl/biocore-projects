@@ -6,7 +6,7 @@ CWL_SCRIPT=/opt/software/external/ggr-cwl/GGR-cwl/v1.0/RNA-seq_pipeline/pipeline
 #
 ##Full path to the pipeline json file
 #
-JSON_FILE=/data/projects/Biocore/biocore-pipelines/rna-seq/Zebrafish_Heart_mir21_2015/SL108034_83.danio_rerio.json
+JSON_FILE=/data/projects/Biocore/biocore_projects/rna-seq/VootYin/Zebrafish_Heart_mir21_2015/SL108034_83.danio_rerio.json
 #
 ## Cwl Command line options
 #
